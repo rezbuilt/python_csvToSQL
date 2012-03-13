@@ -1,5 +1,6 @@
-Python CSV to SQL
-
+Python CSV to SQL with GeoCoding
+Version 1.0
+ 
 Features:
 -CSV datasource file list
 -attribute/header replacement options

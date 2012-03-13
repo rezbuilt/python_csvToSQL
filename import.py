@@ -125,9 +125,9 @@ def start():
 print('                       ')
 print('     CSV to SQL Insert/Update + Geocoding & Additional Attributes  ')
 print('     Created by:   Michael Rzeznik - rezbuilt.com   ')
-print('     Created on:   3/10/12 ')
+print('     Created on:   3/11/12 ')
 print('     Updated on:   3/12/12 ')
-print('     Version:      1.4 ')
+print('     Version:      1.0 ')
 print('                       ')
 
 file = start()
