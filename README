@@ -1,0 +1,18 @@
+Python CSV to SQL
+
+Features:
+-CSV datasource file list
+-attribute/header replacement options
+-optional address geocoding with coordinate database attribute inputs
+-opion to add additional default values to database attributes not in CSV
+-SQL insert print and option to save to file
+
+TO DO:
+-setup UPDATE sequences with foreign key from user input or CSV
+-add data validation to all inputs
+-create functions for list generator (currently procedural)
+
+USAGE:
+EDIT import.py 
+fileDirectory = "PATH_TO_CSV" line 4
+gkey = "GOOGLE_API_KEY" line 5
