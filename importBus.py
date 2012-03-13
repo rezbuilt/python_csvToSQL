@@ -4,7 +4,7 @@ import csv,os,time,urllib,urllib2,time
 fileDirectory = "data_stores/businessLists"
 sleep_time = 2
 root_url = "http://maps.google.com/maps/geo?"
-gkey = "AIzaSyD5HQ722c4TjlVJVn-9LUEITHowOCkU9uE"
+gkey = "APIKEY"
 return_codes = {'200':'SUCCESS',
 	'400':'BAD REQUEST',
 	'500':'SERVER ERROR',
