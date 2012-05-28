@@ -71,7 +71,7 @@ def questionFile():
 def questionAddl():
 	print(' ')
 	dirQatt = raw_input("   Attribute Name:  ")
-	dirQval = raw_input("   Attrubute Value: ")
+	dirQval = raw_input("   Attribute Value: ")
 	return dirQatt + ',' + dirQval
 
 def questionHowManyAdl():
