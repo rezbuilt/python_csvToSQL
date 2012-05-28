@@ -1,7 +1,7 @@
 import csv,os,time,urllib,urllib2,time
 
 
-fileDirectory = "DIRECTORY"
+fileDirectory = "files/"
 gkey = "GOOGLE_KEY"
 sleep_time = 2
 root_url = "http://maps.google.com/maps/geo?"
